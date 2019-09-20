@@ -6,7 +6,6 @@ body {
 	margin: 0px;
 	background: url("../img/black-coffee-camera-coffee.png") center/cover no-repeat fixed #e5e5e5;
 	background-size: cover;
-
 }
 
 div.emptyErr {
@@ -93,7 +92,6 @@ div.emptyErr {
 .login-form ::-ms-input-placeholder {
 	color: white;
 	opacity: 0.7;
-
 }
 
 .login-button {
@@ -112,10 +110,11 @@ div.emptyErr {
 	color: white;
 }
 
-.login-help a {
+a {
 	text-decoration: none;
-	font: 0.8em "Poppins", sans-serif;
+	font: 1em "Poppins", sans-serif;
 	color: white;
+	margin-bottom: 0;
 }
 
 a:hover {
